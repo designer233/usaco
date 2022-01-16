@@ -1,4 +1,4 @@
 # usaco
 
 ### codeup
-https://codeup.kr/
+https://codeup.kr/problemsetsol.php
