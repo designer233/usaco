@@ -12,3 +12,7 @@ https://py.checkio.org/
 https://www.hackerrank.com
 
 I solved intermediate-level problems in py.CheckiO and HackerRank.com
+
+
+
+I have prepared USACO competition through USACO guide which was really helpful to me.
